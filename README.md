@@ -1,4 +1,3 @@
-# html5-rtl
 > A collections of links for free HTML5 RTL templates and themes
 
 ## RTL HTML5 Themes and Tempaltes
