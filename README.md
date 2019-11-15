@@ -6,6 +6,7 @@
 
 All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
+* [Stellar theme -arathemes.com](https://arathemes.com/theme/stellar)
 * [Identity theme - arathemes.com](https://arathemes.com/theme/identity)
 * [Tslsl theme - arathemes.com](https://arathemes.com/theme/tslsl)
 * [Karte theme - arathemes.com](https://arathemes.com/theme/karte)
