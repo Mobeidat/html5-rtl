@@ -13,3 +13,4 @@ All the resources below have specifically specified that their content is [:copy
 * [Asri theme - arathemes.com](https://arathemes.com/theme/asri)
 * [jameel theme - arathemes.com](https://arathemes.com/theme/jameel)
 * [Baseet theme -arathemes.com](https://arathemes.com/theme/baseet/)
+* [Foton theme -arathemes.com](https://arathemes.com/theme/foton)
